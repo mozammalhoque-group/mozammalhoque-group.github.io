@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mozammalhoque-group.github.io/sitemap.xml
